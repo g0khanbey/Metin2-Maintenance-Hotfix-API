@@ -107,3 +107,24 @@ README.md
 ## Lisans
 
 Bu proje otomasyon ve entegrasyon amaçlı serbest kullanım için sağlanmıştır.
+---
+
+## Eğitim Amaçlı Kullanım
+
+Bu proje; web scraping, REST API geliştirme, Flask kullanımı, zaman dilimi dönüşümü ve basit otomasyon mantığını öğrenmek amacıyla hazırlanmıştır.
+
+Proje yalnızca herkese açık forum sayfasındaki bakım, hotfix ve yeniden başlatma duyurularını okuyarak bilgilendirme amaçlı bir JSON çıktısı üretir.
+
+Bu proje resmi bir Gameforge veya Metin2 servisi değildir. Gameforge, Metin2 ve ilgili tüm marka, forum ve içerik hakları kendi sahiplerine aittir.
+
+Kullanım sırasında hedef siteye gereksiz yoğun istek gönderilmemeli, makul kullanım sınırlarına dikkat edilmeli ve ilgili platformların kullanım şartlarına uyulmalıdır.
+
+API çıktıları yalnızca bilgilendirme amaçlıdır. Resmi ve kesin bakım bilgileri için her zaman Gameforge Metin2 forumundaki duyurular esas alınmalıdır.
+``` platformların kullanım şartlarına uyulmalıdır.
+
+API çıktıları yalnızca bilgilendirme amaçlıdır. Resmi ve kesin bakım bilgileri için her zaman Gameforge Metin2 forumundaki duyurular esas alınmalıdır.
+
+
+
+
+
