@@ -58,7 +58,7 @@ http://127.0.0.1:5000/maintenance
 
 ## Live Demo
 
-[URL’ye tıkla](https://gokhanaltun.com/demo/metin2mainistance.php)
+[URL’ye tıkla](https://gokhanaltun.com/demo/metin2mainistance/)
 
 ---
 
