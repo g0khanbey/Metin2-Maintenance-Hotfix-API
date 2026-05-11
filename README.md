@@ -120,7 +120,7 @@ Bu proje resmi bir Gameforge veya Metin2 servisi değildir. Gameforge, Metin2 ve
 Kullanım sırasında hedef siteye gereksiz yoğun istek gönderilmemeli, makul kullanım sınırlarına dikkat edilmeli ve ilgili platformların kullanım şartlarına uyulmalıdır.
 
 API çıktıları yalnızca bilgilendirme amaçlıdır. Resmi ve kesin bakım bilgileri için her zaman Gameforge Metin2 forumundaki duyurular esas alınmalıdır.
-``` platformların kullanım şartlarına uyulmalıdır.
+platformların kullanım şartlarına uyulmalıdır.
 
 API çıktıları yalnızca bilgilendirme amaçlıdır. Resmi ve kesin bakım bilgileri için her zaman Gameforge Metin2 forumundaki duyurular esas alınmalıdır.
 
